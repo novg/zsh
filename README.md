@@ -2,8 +2,8 @@
 
 ### Install
 
-install antidote from https://github.com/mattmc3/antidote#install-with-git
-install eza from https://github.com/eza-community/eza/blob/main/INSTALL.md#debian-and-ubuntu
+install antidote from https://github.com/mattmc3/antidote#install-with-git  
+install eza from https://github.com/eza-community/eza/blob/main/INSTALL.md#debian-and-ubuntu  
 
 run commands:
 ```
