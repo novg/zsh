@@ -1,0 +1,33 @@
+# oh-my-zsh
+# Add content of https://github.com/ohmyzsh/ohmyzsh/tree/master/lib
+ohmyzsh/ohmyzsh path:lib
+
+# Add plugins
+ohmyzsh/ohmyzsh path:plugins/colored-man-pages
+ohmyzsh/ohmyzsh path:plugins/colorize
+ohmyzsh/ohmyzsh path:plugins/command-not-found
+ohmyzsh/ohmyzsh path:plugins/common-aliases
+
+# add sudo to this or previous command when double key <ESC>
+ohmyzsh/ohmyzsh path:plugins/sudo
+
+# insert closed pair
+hlissner/zsh-autopair
+
+# notifies that the command has an alias
+MichaelAquilina/zsh-you-should-use
+
+# substitution of previously entered commands
+zsh-users/zsh-autosuggestions kind:defer
+
+# arguments autocomletion
+zsh-users/zsh-completions kind:defer
+
+# syntax highlight
+zdharma-continuum/fast-syntax-highlighting kind:defer
+
+# install theme
+ohmyzsh/ohmyzsh path:themes/refined.zsh-theme
+
+# before this install fzf, eza and edit ~/.config/zsh/zshrc.d/fzf-tab-config.zsh
+Aloxaf/fzf-tab
