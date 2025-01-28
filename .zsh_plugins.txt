@@ -6,7 +6,7 @@ ohmyzsh/ohmyzsh path:lib
 ohmyzsh/ohmyzsh path:plugins/colored-man-pages
 ohmyzsh/ohmyzsh path:plugins/colorize
 ohmyzsh/ohmyzsh path:plugins/command-not-found
-ohmyzsh/ohmyzsh path:plugins/common-aliases
+# ohmyzsh/ohmyzsh path:plugins/common-aliases
 
 # add sudo to this or previous command when double key <ESC>
 ohmyzsh/ohmyzsh path:plugins/sudo
